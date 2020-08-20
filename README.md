@@ -30,3 +30,8 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+## Preview
+		
+![Zoo Keeper](bourama98.github.io/images/Screenshot_20200816-220524_Samsung Internet.jpg)
+
