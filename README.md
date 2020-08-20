@@ -33,5 +33,5 @@ Credits:
 		
 ## Preview
 		
-![Zoo Keeper](bourama98.github.io/images/Screenshot_20200816-220524_Samsung Internet.jpg)
+![Zoo Keeper](https://github.com/Bourama98/bourama98.github.io/blob/master/images/Screenshot_20200816-220524_Samsung%20Internet.jpg)
 
